@@ -1,0 +1,344 @@
+/*
+	@name desktop___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px;  overflow: hidden;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1352px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1352px;
+	background:rgba(232,213,196,1);
+}
+
+
+#header1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 336px;
+}
+
+
+#selamat_datang_ {
+	top: 82px;
+	left: 159px;
+	width: 1141px;
+	height: 177px;
+	overflow: hidden;
+	font-family: Sahitya;
+	font-size: 78px;
+	font-weight: bold;
+	text-align: center;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.5);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.5);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.5);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.5);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.5);
+	color:#FFFFFF;
+}
+
+#group_2 {
+	top: 278px;
+	left: 95px;
+	width: 1251px;
+	height: 884px;
+}
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1251px;
+	height: 884px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(255,255,255,1);
+}
+
+
+#header2 {
+	top: 0px;
+	left: 0px;
+	width: 1251px;
+	height: 458px;
+}
+
+#group_1 {
+	top: 65px;
+	left: 515px;
+	width: 222.55px;
+	height: 218px;
+}
+
+#ellipse_2 {
+	top: 0px;
+	left: 0px;
+	width: 222.55px;
+	height: 218px;
+	-ms-border-radius: 111.27px / 109px;
+	-o-border-radius: 111.27px / 109px;
+	-moz-border-radius: 111.27px / 109px;
+	-webkit-border-radius: 111.27px / 109px;
+	border-radius: 111.27px / 109px;
+	background:rgba(238,238,238,1);
+}
+
+
+#profil {
+	top: 7px;
+	left: 6px;
+	width: 211px;
+	height: 204.63px;
+}
+
+
+#hai___saya_rantau_himawan {
+	top: 304px;
+	left: 386px;
+	width: 490px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#mahasiswa_informatika_upn__veteran__jawa_timur {
+	top: 338px;
+	left: 224px;
+	width: 815px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+#group_4 {
+	top: 781px;
+	left: 50px;
+	width: 670px;
+	height: 297px;
+}
+
+#tentang_saya {
+	top: 0px;
+	left: -3px;
+	width: 323px;
+	height: 102px;
+	overflow: hidden;
+	font-family: Noto Serif HK;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#hai{
+	top: 44px;
+	left: 101px;
+	width: 579px;
+	height: 264px;
+	overflow: hidden;
+	font-family: Noto Serif HK;
+	font-size: 16px;
+	text-align: justify;
+	letter-spacing: 0.8px;
+	color:#008BBD;
+}
+
+
+#line_1 {
+	top: 34px;
+	left: 87px;
+	width: 140px;
+	height: 2px;
+	background:#3A98B9;
+}
+
+#group_5 {
+	top: 781px;
+	left: 784px;
+	width: 439px;
+	height: 311px;
+}
+
+#laki_laki {
+	top: 200px;
+	left: 0px;
+	width: 120px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Noto Serif HK;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_29_mei_2002 {
+	top: 80px;
+	left:  0px;
+	width: 300px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Noto Serif HK;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sidoarjo {
+	top: 120px;
+	left: 0px;
+	width: 300px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Noto Serif HK;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#jl__balai_desa_no__3c_rt_13_rw_04__buduran__sidoarjo__jawa_timur {
+	top: 40px;
+	left: 0px;
+	width: 600px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Noto Serif HK;
+	font-size: 14px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#informasi_dasar {
+	top: 0px;
+	left: 0px;
+	width: 180px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Noto Serif HK;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#_21_tahun {
+	top: 160px;
+	left: 0px;
+	width: 250px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Noto Serif HK;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_3 {
+	top: 29px;
+	left: 3px;
+	width: 165px;
+	height: 0px;
+}
+
+
+#line_4 {
+	top: 935px;
+	left: 621px;
+	width: 250.02px;
+	height: 0px;
+}
+
+#group_3 {
+	top: 653px;
+	left: 621px;
+	width: 198px;
+	height: 35px;
+}
+
+#vector {
+	top: 4px;
+	left: 85px;
+	width: 29.3px;
+	height: 28.19px;
+}
+
+
+#vector_ek1 {
+	top: 5px;
+	left: 44px;
+	width: 30.19px;
+	height: 28.19px;
+}
+
+#telegram_app {
+	top: 0px;
+	left: 123px;
+	width: 36.4px;
+	height: 32.08px;
+}
+
+#vector_ek2 {
+	top: 4.01px;
+	left: 3.04px;
+	width: 30.33px;
+	height: 24.06px;
+}
+
+
+#vector_ek3 {
+	top: 5px;
+	left: 0px;
+	width: 31.96px;
+	height: 28.19px;
+}
+
+#google_plus {
+	top: 2px;
+	left: 159px;
+	width: 39.07px;
+	height: 33.06px;
+}
+
+#vector_ek4 {
+	top: 2.75px;
+	left: 3.26px;
+	width: 32.56px;
+	height: 27.55px;
+}
+
+
+
+/* Add your custom CSS here */
